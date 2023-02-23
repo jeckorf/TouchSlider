@@ -1,0 +1,17 @@
+{
+  "name": "TouchSlider",
+  "description": "MPR121 Slider Library for Arduino and ESP microprocessors",
+  "keywords": "MPR121, slider, arduino, esp8266, esp32",
+  "authors": {
+    "name": "Jeckorf",
+    "url": "https://github.com/jeckorf/touchslider"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeckorf/touchslider.git"
+  },
+  "headers": "TouchSlider.h"
+}
